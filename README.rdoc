@@ -1,1 +1,1 @@
-My first app using React and Rails.
+My first app using React with Rails.
